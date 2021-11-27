@@ -1,3 +1,4 @@
+<hr>
 
 <h1>Hi, I am MaykonDev💫</h1>
 
