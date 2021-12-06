@@ -27,5 +27,6 @@
 <details>
   <summary>Minhas redes sociais:</summary></br>
   <i><li><a href="https://api.whatsapp.com/send?phone=5567998318445">WhatsApp</a></i>
+  <i><li><a href="mayconwendel70@gmail.com">e-mail</a></i>
   </summary>
 </details>
