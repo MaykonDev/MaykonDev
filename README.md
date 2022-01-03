@@ -33,3 +33,10 @@
   <i><li><a href="mayconwendel70@gmail.com">e-mail</a></i>
   </summary>
 </details>
+</br>
+<details>
+  <summary>Alguns projetos:</summary></br>
+  <i><li><a href="https://github.com/MayconDev/backdoor">Backdoor em C</a></i>
+  <i><li><a href="https://github.com/MaykonDev/exploit-ftp">Exploit em Python para FTP</a></i>
+  <i><li><a href="https://github.com/MaykonDev/binario">Tradutor de binario</a></i>
+</details>
