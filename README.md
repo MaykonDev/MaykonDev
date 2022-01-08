@@ -1,4 +1,9 @@
-<h1>Hi, I am MaykonDev :D</h1></br>
-<img src="https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif">
-<p>Olá pessoal e bem vindo ao meu GitHub, aqui encontrarão de tudo, desde softwares criados para Pentest até projetos de automação de serviços em Python</p>
-<strong><i>Um pouco sobre mim: </i></strong><p>Sou desenvolvedor multiplataforma, programador em Python, Shell Script, C e Assembly... Tenho 17 anos de idade, moro em Itapevi-SP, trabalho em uma SoftwareHouse em São Paulo, curto testar distros Linux, no momento uso Arch Linux e Ubuntu...!</p>
+<h1 text align='center'>MaykonDev</h1></br>
+<p>um pouco sobre mim:</p></br>
+<li><b>Idade:</b> 17 Anos!
+<li><b>Cidade:</b> Itapevi-SP
+<li><b>Idiomas extra:</b> Ingles
+<li><b>Linguagens de programacao:</b> Python, Assembly, C, Shell Script
+<li><b>Cursos extras:</b> Redes, Pentest, Cyber Seguranca
+</br>
+<h2>The End!</h2>
