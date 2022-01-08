@@ -5,5 +5,6 @@
 <li><b>Idiomas extra:</b> Ingles
 <li><b>Linguagens de programacao:</b> Python, Assembly, C, Shell Script
 <li><b>Cursos extras:</b> Redes, Pentest, Cyber Seguranca
+<li><b>Distro:</b> Ubuntu e Arch Linux
 </br>
 <h2>The End!</h2>
