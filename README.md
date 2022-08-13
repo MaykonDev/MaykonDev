@@ -1,7 +1,11 @@
 <h1 text align='center'>Hi 👋, I am MaykonDev</h1>
 
 <p>Hello, welcome to my github, here you will find tools for pentest and some automations.</p>
-<img src='https://badgen.net/badge/icon/terminal?icon=terminal&label'>
+<img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white'>
+<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
+<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
+<img src='https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white'>
+
 <h2>About me:</h2>
 <i>I'm 18 years old, I live in Florianópolis Santa Catarina, I'm a Python programmer, student of C and JavaScript, fascinated by quantum mechanics and Information Security.</i>
 </br></br>
