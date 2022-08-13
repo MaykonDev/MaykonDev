@@ -8,15 +8,9 @@
   <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
 </div>
 
-
 <h2>About me:</h2>
 <i>I'm 18 years old, I live in Florianópolis Santa Catarina, I'm a Python programmer, student of C and JavaScript, fascinated by quantum mechanics and Information Security.</i>
 </br></br>
-<strong>• Knowledge in:</strong>
-<p>
- Python, C, C++, Linux, JavaScript, Shell Script, Pentest, Computer network.
-</p>
-
 
 <h2>Some interesting projects:</h2>
 <a href='https://github.com/MaykonDev/SysTest'> • SysTest </a>Pentest tool made in Python</i>
