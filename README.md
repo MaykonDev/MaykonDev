@@ -1,7 +1,7 @@
 <h1 text align='center'>Hi 👋, I am MaykonDev</h1>
 
 <p>Hello, welcome to my github, here you will find tools for pentest and some automations.</p>
-
+<img src='https://badgen.net/badge/icon/terminal?icon=terminal&label'>
 <h2>About me:</h2>
 <i>I'm 18 years old, I live in Florianópolis Santa Catarina, I'm a Python programmer, student of C and JavaScript, fascinated by quantum mechanics and Information Security.</i>
 </br></br>
