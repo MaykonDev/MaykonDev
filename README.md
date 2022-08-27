@@ -1,10 +1,9 @@
 <h1 align="center">Bem vindo ao meu github!</h1>
 
 <div>
-<img src="https://img.shields.io/badge/-WHATSAPP-blueviolet?style=for-the-badge&logo=WhatsApp">
-<img src="https://img.shields.io/badge/-C-sucess?style">
-<img src="https://img.shields.io/badge/-Cpp-sucess">
-<img src="https://img.shields.io/badge/-Haskell-sucess">
+<a href="https://wa.me//:+5567998318445"><img src="https://img.shields.io/badge/-WHATSAPP-white?style=for-the-badge&logo=WhatsApp&logoColor=Green"></a>
+<img src="https://img.shields.io/badge/-TELEGRAM-white?style=for-the-badge&logo=Telegram">
+<img src="https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=GitHub&logoColor=black">
 <div>
 
 <details>
