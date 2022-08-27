@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://wa.me//:+5567998318445"><img src="https://img.shields.io/badge/-WHATSAPP-white?style=for-the-badge&logo=WhatsApp&logoColor=Green"></a>
-<img src="https://img.shields.io/badge/-TELEGRAM-white?style=for-the-badge&logo=Telegram">
-<img src="https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=GitHub&logoColor=black">
+<a href="https://t.me://@MayconW01"><img src="https://img.shields.io/badge/-TELEGRAM-white?style=for-the-badge&logo=Telegram"></a>
+<a href="https://github.com/MaykonDev"><img src="https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=GitHub&logoColor=black"></a>
 <div>
 
 <details>
