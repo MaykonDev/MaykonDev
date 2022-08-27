@@ -1,11 +1,10 @@
 <h1 align="center">Bem vindo ao meu github!</h1>
 
 <div>
-<img src="https://img.shields.io/badge/-python-sucess">
-<img src="https://img.shields.io/badge/-C-sucess">
+<img src="https://img.shields.io/badge/-WHATSAPP-blueviolet?style=for-the-badge&logo=WhatsApp">
+<img src="https://img.shields.io/badge/-C-sucess?style">
 <img src="https://img.shields.io/badge/-Cpp-sucess">
 <img src="https://img.shields.io/badge/-Haskell-sucess">
-<img src="https://img.shields.io/badge/-OpenSource-sucess">
 <div>
 
 <details>
