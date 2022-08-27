@@ -19,3 +19,5 @@
 <li><b>Fundamentos em Informática</b> - <i>IBSEC</i>
 <li><b>Introdução ao Pentest</b> - <i>Solyd</i>
 </details>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
