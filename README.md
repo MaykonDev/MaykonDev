@@ -4,7 +4,9 @@
 <p align="center">Contatos:</p>
 <p align="center"><a href="https://wa.me//:+5567998318445"><img src="https://img.shields.io/badge/-WHATSAPP-white?style=for-the-badge&logo=WhatsApp&logoColor=Green"></a></p>
 <p align="center"><a href="https://t.me://@MayconW01"><img src="https://img.shields.io/badge/-TELEGRAM-white?style=for-the-badge&logo=Telegram"></a>
-<a href="https://github.com/MaykonDev"><img src="https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=GitHub&logoColor=black"></a></p>
+<a href="https://github.com/MaykonDev"><img src="https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=GitHub&logoColor=black"></a>
+<a href="https://maykondev.ml"><img src="https://img.shields.io/badge/-PORTFOLIO-white?style=for-the-badge&logo=GitHub&logoColor=black"></a></p>
+
 
 </div>
 
