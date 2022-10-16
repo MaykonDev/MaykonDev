@@ -40,6 +40,7 @@
 <h2 align="center">Certificados e Certificações</h2>
 <li><b>Fundamentos em redes</b> - <i>IBSEC</i>
 <li><b>Fundamentos em Informática</b> - <i>IBSEC</i>
+<li><b>Python para Cibersegurança Associado</b> - <i>Solyd</i>
 <li><b>Introdução ao Pentest</b> - <i>Solyd</i>
 </details>
 
