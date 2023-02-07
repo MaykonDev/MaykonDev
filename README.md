@@ -14,18 +14,14 @@
     <summary align="center"> Minhas stacks</summary>
     <p align="center">Stacks: </p>
     <div>
-    <img src="https://img.shields.io/badge/-Golang-black?style=for-the-badge&logo=Go&logoColor=Green">
-    <img src="https://img.shields.io/badge/-Python3-black?style=for-the-badge&logo=Python&logoColor=Green">
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=Green">
-    <img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C&logoColor=Green">
-    <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C++&logoColor=Green">
+    <p align="center"><img src="https://img.shields.io/badge/-Python3-black?style=for-the-badge&logo=Python&logoColor=Green">
     <img src="https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=VisualStudioCode&logoColor=default">
     <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=Green">
     <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=Green">
     <img src="https://img.shields.io/badge/-ArchLinux-black?style=for-the-badge&logo=ArchLinux&logoColor=default">
     <img src="https://img.shields.io/badge/-RadHat-black?style=for-the-badge&logo=RedHat&logoColor=red">
     <img src="https://img.shields.io/badge/-KaliLinux-black?style=for-the-badge&logo=KaliLinux&logoColor=cyan">
-    <img src="https://img.shields.io/badge/-CentOS-black?style=for-the-badge&logo=CentOS&logoColor=Green">
+    <img src="https://img.shields.io/badge/-CentOS-black?style=for-the-badge&logo=CentOS&logoColor=Green"></p>
     <div>
 </details>
 
